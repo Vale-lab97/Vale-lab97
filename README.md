@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Valeria Princi and i'm a junior web developer from italy<br><br>- 📚 I'm currently learning : Laravel , Javascript, Node.js and Git&GitHub<br>- ⚡ In my free time I develop some projects, to put my knowledge into practice and improve more and more</p>
+<p align="left">I'm Valeria Princi and i'm a junior web developer from italy<br><br>- 📚 I'm currently learning : Laravel , Javascript, Node.js and Git&GitHub<br>- ⚡ IIn my free time I develop some projects, to put my knowledge into practice and improve more and more</p>
 
 ###
 
@@ -56,21 +56,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain.svg" height="40" alt="filezilla logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="40" alt="selenium logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Vale-lab97&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
