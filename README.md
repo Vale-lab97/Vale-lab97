@@ -62,6 +62,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/livewire/livewire-original.svg" height="40" alt="livewire logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filamentphp/filamentphp-original.svg" height="40" alt="filamentphp logo"  />
+  <img width="12" />
+  
 </div>
 
 ###
