@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">I'm Valeria Princi and i'm a junior web developer from italy<br><br>- 📚 I'm currently learning : Laravel , Javascript, Node.js and Git&GitHub<br>- ⚡ IIn my free time I develop some projects, to put my knowledge into practice and improve more and more</p>
+<p align="left">I'm Valeria Princi and i'm a junior web developer from italy<br><br>- 📚 I'm currently learning : Laravel , Javascript, Node.js and Git&GitHub<br>- ⚡ In my free time I develop some projects, to put my knowledge into practice and improve more and more</p>
 
 ###
 
